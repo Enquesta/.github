@@ -22,3 +22,8 @@ provide a web based archive of the questions asked.
   - [Website-Finals](https://enquesta.github.io/enquesta2023-finals/)
   - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2023-prelims)
   - [Github Repo-Finals](https://github.com/Enquesta/enquesta2023-finals)
+- Enquesta 2024
+  - Event Heads/Hosts: Arjunkrishna M, Johanna Esther, Achuth Krishna A
+  - Tech:
+  - Juniors: 
+  - Winners:
