@@ -23,7 +23,7 @@ provide a web based archive of the questions asked.
   - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2023-prelims)
   - [Github Repo-Finals](https://github.com/Enquesta/enquesta2023-finals)
 - Enquesta 2024
-  - Event Heads: Arjunkrishna M, Johanna Esther, Achuth Krishna A
+  - Event Heads: Arjunkrishna M, Johanna Esther
   - Event Hosts: Arjunkrishna M., Johanna Esther, Achuth Krishna
   - Tech: Alan Joseph
   - Juniors: Atul, Ann, Edward Sheen, Vimarsh, Abhiraj, Sidharth, Niya, Kishan Shivadas, Bhavin Shankar
