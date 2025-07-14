@@ -32,5 +32,7 @@ However, we will continue to share different scripts and other stuff that we use
   - Tech: Alan Joseph
   - Juniors: Atul, Ann, Edward Sheen, Vimarsh, Abhiraj, Siddarth K V, Niya, Kishan Shivadas, Bhavin Shankar
   - Winners: Christ Nagar ISC School
+  - [Website-Prelims](https://enquesta.github.io/enquesta2024-prelims/)
+  - [Website-Finals](https://enquesta.github.io/enquesta2024-finals/)
   - Scripts Used: [Github Repo-Scripts](https://github.com/Enquesta/enquesta2024-scripts)
   - Code and Schematic for the Buzzer: [Github Repo-Buzzer](https://github.com/Enquesta/enquesta-buzzer-code)
