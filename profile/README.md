@@ -8,7 +8,7 @@ provide a web based archive of the questions asked.
 ### 💻 Legacy
 - Enquesta 2022
   - Event Heads: Adithya Kishor, Rohan Deepu
-  - Hosts: Karthik Retheesh, Saurav S, Jithin Rajesh, Noel George, Gautam Sajeesh, Saurav Ajilal,  Muhammed Suhail, Dev Rakesh, Sajin Santhosh
+  - Hosts: Adithya Kishor, Rohan Deepu, Karthik Retheesh, Saurav S, Jithin Rajesh, Noel George, Gautam Sajeesh, Saurav Ajilal,Muhammed Suhail, Dev Rakesh, Sajin Santhosh
   - Juniors: Navaneeth V. Sankar, Matthew K. Mathen
   - Winners: St Thomas Central School
   - [Website](https://enquesta.github.io/enquesta2022/)
@@ -44,4 +44,4 @@ provide a web based archive of the questions asked.
   - [Website-Finals](https://enquesta.github.io/enquesta2025-finals/)
   - [Github Repo-Prelims](https://github.com/Enquesta/enquesta2025-prelims)
   - [Github Repo-Finals](https://github.com/Enquesta/enquesta2025-finals)
-  - Code for the Buzzer: [Github Repo-Buzzer]https://github.com/Enquesta/enquesta-android-buzzer)
+  - Code for the Buzzer: [Github Repo-Buzzer](https://github.com/Enquesta/enquesta-android-buzzer)
